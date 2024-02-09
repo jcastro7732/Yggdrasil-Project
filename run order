@@ -1,0 +1,14 @@
+RUN Order
+1. smiles_processing.py
+2. script1.py (dos2unix charges file)
+3. input_generator.sh
+4. calculation.sh
+5. looking_error.sh
+6. erase.sh
+7. xyz_backup.sh
+8. calculationSP.sh
+9. charges.sh
+10. bond_order.sh
+11. bond_length.py (conda activate myenv, conda deactivate)
+12. nearest_neighbors.py
+13. database.sh

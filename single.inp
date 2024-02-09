@@ -1,0 +1,17 @@
+# Yggdrasil Project: Cognitio
+# 
+! B3LYP SP def2-TZVP 
+%PAL NPROCS 8 END
+
+* xyz 0 1
+   C       -6.40502        2.68204        0.00000
+   H       -5.33502        2.68204        0.00000
+   H       -6.76168        1.88427        0.61745
+   H       -6.76169        2.54621       -0.99962
+   H       -6.76169        3.61566        0.38217
+*
+
+%output
+	Print[ P_Mulliken ] 1
+	Print[ P_BondOrder_M] 1
+end
