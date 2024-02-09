@@ -1,0 +1,10 @@
+MODELO Run Order
+
+1. data_handling.py  (1st Handling of the original database)
+2. adding.py (adds/copy the nearest neighbors column from the original data to the processed database)
+3. data_featuring.py (New Features Creation)
+4. smiles_processing.py (Converts the SMILES representation in bits/fingerprints)
+5. EDA.py (Exploratory Data Analysis, png's are provided to further analysis)
+
+
+
