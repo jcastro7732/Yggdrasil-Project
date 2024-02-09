@@ -1,4 +1,4 @@
-RUN Order
+RUN Order Cognitio Phase
 1. smiles_processing.py
 2. script1.py (dos2unix charges file)
 3. input_generator.sh
